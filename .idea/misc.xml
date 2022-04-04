@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/drawable/ic_baseline_account_circle.xml" value="0.2985" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/drawable/ic_facebook.xml" value="0.2985" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/layout/activity_sign_in.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/CompanysApp/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
         <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/CompanysApp/app/src/main/res/drawable-v24/ic_baseline_assignment_ind_24.xml" value="0.17" />
         <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/CompanysApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.17" />
         <entry key="..\:/Users/Marcio Darlan/AndroidStudioProjects/CompanysApp/app/src/main/res/drawable/gradientbutton.xml" value="0.17" />

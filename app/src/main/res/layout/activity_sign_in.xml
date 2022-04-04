@@ -33,6 +33,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_baseline_account_circle"
             />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -55,7 +56,8 @@
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:inputType="textPassword" />
+            android:inputType="textPassword"
+            android:drawableEnd="@drawable/ic_baseline_vpn_key"/>
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -83,6 +85,7 @@
                 android:textAllCaps="false"
                 android:text="@string/signin_button"
                 android:backgroundTint="@color/orange1"
+
                 />
 
             <Button
